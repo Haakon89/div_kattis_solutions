@@ -1,0 +1,1 @@
+These are solutions I made for kattis tasks
